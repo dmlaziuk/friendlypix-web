@@ -1,3 +1,4 @@
+/* eslint-disable brace-style */
 /**
  * Copyright 2015 Google Inc. All Rights Reserved.
  *

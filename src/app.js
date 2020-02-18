@@ -39,7 +39,7 @@ import './app.css';
  *  - Auth to know if the user is signed-in.
  *  - The App's router which can display the Splash page.
  *  - Enable Offline.
- * 
+ *
  * The rest of the app is loaded asynchroneously and passed to the router.
  * Google Analytics is asynchroneously loaded.
  */
